@@ -1,0 +1,233 @@
+@import url('https://fonts.googleapis.com/css2?family=Elsie+Swash+Caps&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
+/* Desktop */
+@media screen and (min-width: 1440px) {
+    #app{ 
+        width: 412px;
+        margin: 0 auto;
+    }
+
+    .bg-pagecover{
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    
+    .bg-page1{
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    .bg-page2{
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    .bg-page3{
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    
+    .bg-page4{
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    
+    .bg-page5{
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    
+    .bg-page6{
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+
+    /* content fixed */
+
+.navbar {
+    overflow: hidden;
+    background-color: transparent;
+    position: fixed;
+    bottom: 0;
+    z-index: 1;
+  }
+
+}
+
+@media screen and (min-width: 1280px) {
+    #app{
+        width: 412px;
+        margin: 0 auto;
+    }
+
+    .bg-pagecover{
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    
+    .bg-page1{
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    .bg-page2{
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    .bg-page3{
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    
+    .bg-page4{
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    
+    .bg-page5{
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    
+    .bg-page6{
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    /* content fixed */
+
+.navbar {
+    overflow: hidden;
+    background-color: transparent;
+    position: fixed;
+    bottom: 0;
+    z-index: 1;
+  }
+
+}
+/* Mobile */
+@media screen and (max-width: 600px) {
+    .bg-pagecover{
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    
+    .bg-page1{
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    .bg-page2{
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    .bg-page3{
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    
+    .bg-page4{
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    
+    .bg-page5{
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    
+    .bg-page6{
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+
+    /* content fixed */
+
+.navbar {
+    overflow: hidden;
+    background-color: transparent;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 1;
+  }
+
+}
+.fontElsie{
+    font-family: 'Elsie Swash Caps', cursive;
+}
+
+.fontYeseva{
+    font-family: 'Yeseva One', cursive;
+}
+
+.hr2{
+    width: 20%;
+    margin: auto;
+}
+
+.hr3{
+    width: 20%;
+    margin: auto;
+    color: white;
+}
+.overflowAuto {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    height: 60vh;
+    width: 100%;
+}
+
+.animation1 {
+  position: relative;
+  animation: MyDiv 3s ease-in-out infinite;
+  animation-direction: alternate-reverse;
+}
+
+.animation2 {
+  position: relative;
+  animation: MyDiv 3s ease-in-out infinite;
+  animation-direction: alternate-reverse;
+}
+
+@keyframes MyDiv {
+  0%   {left: 0px; top: 0px;}
+  100%  {left: 30px; top: 0px;}
+}

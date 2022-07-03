@@ -1,0 +1,486 @@
+@import url('https://fonts.googleapis.com/css2?family=Nuosu+SIL&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nuosu+SIL&family=Petit+Formal+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Charm&display=swap');
+
+/* Mobile */
+@media screen and (max-width: 500px){
+    .bg-pagecover{
+        background-image: url('https://digition.id/wp-content/uploads/2022/02/00.jpg');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        height: 100vh;
+    }
+
+    .bg-page1{
+        height: 100vh;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    .bg-page2{
+        background-image: url('https://digition.id/wp-content/uploads/2022/02/0.jpg');
+        height: 240vh;
+        margin-top: -10vh;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    .bg-page3{
+        background-image: url('https://digition.id/wp-content/uploads/2022/02/Picture11.jpg');
+        height: 170vh;
+        margin-top: -10vh;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    
+    .bg-page4{
+        background-image: url('./img/black_image.png'), url('https://digition.id/wp-content/uploads/2022/02/53.jpg');
+        height: 140vh;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    .bg-page5{
+    background-color: #807e7d;
+    height: 270vh;
+    margin-top: -10vh;
+}
+
+    .bg-page6{
+        background-image: url('https://digition.id/wp-content/uploads/2022/02/ddds.jpg');
+        height: 120vh;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    .bg-page9{
+        background-image: url('https://digition.id/wp-content/uploads/2022/02/ddds.jpg');
+        height: 130vh;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    
+    .fontWedding{
+        font-family: 'Nuosu SIL';
+        font-size: 16px;
+        color: #fff;
+        text-align: center;
+    }
+
+    .fontPasangan{
+        font-family: 'Petit Formal Script', cursive;
+        font-size: 40px;
+        color: #fff;
+        text-align: center;
+        margin-top: -10vh;
+    }
+
+    .fontCounting{
+        font-family: 'Nuosu SIL';
+        font-size: 25px;
+        color: #fff;
+        text-align: center;
+    }
+
+    .fontLive{
+        font-family: 'Nuosu SIL';
+        font-size: 25px;
+        color: #fff;
+        text-align: center;
+    }
+
+    .fontReservasi{
+        font-family: 'Nuosu SIL';
+        font-size: 25px;
+        color: #fff;
+        text-align: center;
+    }
+    
+
+
+    .hr1{
+        width: 30%;
+        margin: auto;
+        color: #fff;
+    }
+    
+    
+}
+/* Desktop 720*/
+@media screen and (min-width: 1280px){
+    .bg-pagecover{
+        background-image: url('https://digition.id/wp-content/uploads/2022/02/00.jpg');
+        background-size: cover;
+        background-position: bottom;
+        background-repeat: no-repeat;
+        height: 100vh;
+    }
+    .bg-page1{
+        height: 100vh;
+        background-size: cover;
+        background-position: top;
+    }
+
+    .bg-page2{
+        background-image: url('https://digition.id/wp-content/uploads/2022/02/0.jpg');
+        height: 180vh;
+        padding-top: 20vh;
+        margin-top: -25vh;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    
+    .bg-page3{
+        background-image: url('https://digition.id/wp-content/uploads/2022/02/Picture11.jpg');
+        height: 150vh;
+        padding-top: 20vh;
+        margin-top: -25vh;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    .bg-page4{
+        background-image: url('./img/black_image.png'), url('https://digition.id/wp-content/uploads/2022/02/53.jpg');
+        height: 130vh;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    .bg-page5{
+    background-color: #807e7d;
+    height: 350vh;
+    margin-top: -10vh;
+}
+
+    .bg-page6{
+        background-image: url('https://digition.id/wp-content/uploads/2022/02/ddds.jpg');
+        height: 100vh;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    .bg-page7{
+        background-image: url('./img/black_image.png'),url('https://digition.id/wp-content/uploads/2022/02/56.jpg');
+        height: 120vh;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    .bg-page8{
+        background-color: #807e7d;
+        height: 80vh;
+    }
+
+    .bg-page9{
+        background-image: url('https://digition.id/wp-content/uploads/2022/02/ddds.jpg');
+        height: 170vh;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    
+    .fontWedding{
+        font-family: 'Nuosu SIL';
+        font-size: 40px;
+        color: #fff;
+        text-align: center;
+        margin-top: 25vh;
+    }
+
+    .fontPasangan{
+        font-family: 'Petit Formal Script', cursive;
+        font-size: 80px;
+        color: #fff;
+        text-align: center;
+    }
+
+    .fontCounting{
+        font-family: 'Nuosu SIL';
+        font-size: 30px;
+        color: #fff;
+        text-align: center;
+    }
+
+    .fontLive{
+        font-family: 'Nuosu SIL';
+        font-size: 50px;
+        color: #fff;
+        text-align: center;
+    }
+
+    .fontReservasi{
+        font-family: 'Nuosu SIL';
+        font-size: 40px;
+        color: #fff;
+        text-align: center;
+    }
+    
+
+    .hr1{
+        width: 40%;
+        margin: auto;
+        color: #fff;
+    }
+
+}
+
+/* Desktop HD*/
+@media screen and (min-width: 1440px){
+    .bg-pagecover{
+        background-image: url('https://digition.id/wp-content/uploads/2022/02/00.jpg');
+        background-size: cover;
+        background-position: bottom;
+        background-repeat: no-repeat;
+        height: 100vh;
+    }
+    .bg-page1{
+        height: 70vh;
+        background-size: cover;
+        background-position: top;
+    }
+
+    .bg-page2{
+        background-image: url('https://digition.id/wp-content/uploads/2022/02/0.jpg');
+        height: 150vh;
+        padding-top: 20vh;
+        margin-top: -25vh;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    
+    .bg-page3{
+        background-image: url('https://digition.id/wp-content/uploads/2022/02/Picture11.jpg');
+        height: 120vh;
+        padding-top: 20vh;
+        margin-top: -25vh;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    .bg-page4{
+        background-image: url('./img/black_image.png'), url('https://digition.id/wp-content/uploads/2022/02/53.jpg');
+        height: 100vh;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    .bg-page5{
+    background-color: #807e7d;
+    height: 230vh;
+    margin-top: -10vh;
+}
+
+    .bg-page6{
+        background-image: url('https://digition.id/wp-content/uploads/2022/02/ddds.jpg');
+        height: 60vh;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    .bg-page9{
+        background-image: url('https://digition.id/wp-content/uploads/2022/02/ddds.jpg');
+        height: 130vh;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    
+    
+    
+
+
+    .fontWedding{
+        font-family: 'Nuosu SIL';
+        font-size: 40px;
+        color: #fff;
+        text-align: center;
+        margin-top: 25vh;
+    }
+
+    .fontPasangan{
+        font-family: 'Petit Formal Script', cursive;
+        font-size: 80px;
+        color: #fff;
+        text-align: center;
+    }
+
+    .fontCounting{
+        font-family: 'Nuosu SIL';
+        font-size: 30px;
+        color: #fff;
+        text-align: center;
+    }
+
+    .fontLive{
+        font-family: 'Nuosu SIL';
+        font-size: 50px;
+        color: #fff;
+        text-align: center;
+    }
+
+    .fontReservasi{
+        font-family: 'Nuosu SIL';
+        font-size: 40px;
+        color: #fff;
+        text-align: center;
+    }
+    
+
+    .hr1{
+        width: 40%;
+        margin: auto;
+        color: #fff;
+    }
+
+}
+
+.none{
+    display: none;
+}
+
+.overflowAuto {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    height: 20vh;
+    width: 100%;
+}
+
+
+.gold{
+    color: #A67C00;
+}
+
+.goldbg{
+    background-color: #A67C00;
+}
+
+
+
+
+
+
+.bg-page7{
+    background-image: url('./img/black_image.png'),url('https://digition.id/wp-content/uploads/2022/02/56.jpg');
+    height: 70vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+
+
+.bg-page10{
+    background-color: #807e7d;
+    height: 15vh;
+}
+
+.marginCover{
+    margin-top: 40vh;
+}
+
+.imageBatas{
+    margin-top: -5vh;
+}
+
+.fontPasangan2{
+    font-family: 'Petit Formal Script', cursive;
+    font-size: 40px;
+    color: #A67C00;
+    text-align: center;
+    margin-top: -10vh;
+}
+
+
+
+.fontPanggilanPria{
+    font-family: 'Oleo Script', cursive;
+    font-size: 25px;
+    color: #A67C00;
+    text-align: center;
+}
+
+.fontAkad{
+    font-family: 'Charm', cursive;
+    font-size: 35px;
+    color: #607D8B;
+    text-align: center;
+}
+
+
+
+.fontGallery2{
+    font-family: 'Nuosu SIL';
+    font-size: 25px;
+    color: #A67C00;
+    text-align: center;
+}
+
+
+
+
+.hr2{
+    width: 30%;
+    margin: auto;
+    color: #795548;
+}
+
+
+
+
+.cardBg{
+    background-image: url('./img/black_image.png'), url('https://digition.id/wp-content/uploads/2022/02/OE-WR1002_1-ororeads-22-05-2020-15-20-24.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+/* content fixed */
+
+.navbar {
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 1;
+  }
+  
+  .navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .navbar a:hover {
+    background: #ddd;
+    color: black;
+  }
+  
+  .main {
+    padding: 16px;
+    margin-bottom: 30px;
+    height: 1500px; /* Used in this example to enable scrolling */
+  }
